@@ -1,0 +1,1 @@
+streamlit run "C:\Users\GAURANSHI\Desktop\MP\mp.py"
